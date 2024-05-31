@@ -1,5 +1,5 @@
 FROM python:alpine
-LABEL maintainer="Meena Alfons <me@meenaalfons.com>"
+LABEL maintainer="Struan Clark (xtruan)"
 
 RUN apk --no-cache add curl
 
